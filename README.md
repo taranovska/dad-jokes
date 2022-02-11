@@ -1,4 +1,4 @@
-# Dad JOkes Project
+# Dad Jokes Project
 
 This project was bootstrapped with [React](https://github.com/facebook/create-react-app).
 
